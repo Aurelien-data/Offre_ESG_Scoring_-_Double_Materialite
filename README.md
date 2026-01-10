@@ -18,16 +18,16 @@ L'objectif final est de fournir une **lecture stratégique claire**:
 
 ### Data & Analyse
 - **Python (Jupyer notebook)**
-- pandas, numpy
-- matplotlib/ seaborn
-- EDA ESG (qualité, distribution, corrélation)
-- Préparation des features pour le clustering
+  - pandas, numpy
+  - matplotlib/ seaborn
+  - EDA ESG (qualité, distribution, corrélation)
+  - Préparation des features pour le clustering
 
-- **Machine Learning
-- **K-Means (non supervisé)**
-- Objectif: identifier des **profils ESG homogènes**
-- Sélection et normalisation des variables ESG
-- Analyse et interprétaion des clusters
+- **Machine Learning**
+  - **K-Means (non supervisé)**
+  - Objectif: identifier des **profils ESG homogènes**
+  - Sélection et normalisation des variables ESG
+  - Analyse et interprétaion des clusters
 
 ### Dataiku DSS
 - Centralisation des datasets

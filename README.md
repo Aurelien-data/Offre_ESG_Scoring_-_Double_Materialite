@@ -132,4 +132,4 @@ Le focus est mis sur:
 
 ## Auteur
 **Aurélien Prat**
-Consultant BI & Data Analyst
+- Consultant BI & Data Analyst

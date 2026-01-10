@@ -10,7 +10,7 @@ Ce projet vie à **analyser, structurer et restituer la performance ESG** d'un p
 - Restitution décisionnelle via **Power BI**
 
 L'objectif final est de fournir une **lecture stratégique claire**:
-> *où concentrer les efforts ESG, quels profils présentent un risque latent, et quels leveirs activer.*
+> *où concentrer les efforts ESG, quels profils présentent un risque latent, et quels leviers activer.*
 
 ---
 

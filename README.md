@@ -2,7 +2,7 @@
 **Analyse ESG - Dataiku -- Python -- Power BI**
 
 ## Objectif du projet
-Ce projet vie à **analyser, structurer et restituer la performance ESG** d'un portefeuille d'entreprises à travers une aprroche **data-driven**, combinant:
+Ce projet vise à **analyser, structurer et restituer la performance ESG** d'un portefeuille d'entreprises à travers une aprroche **data-driven**, combinant:
 
 - Analyse exploratoire (EDA) en Python
 - Scoring ESG et segmentation non supervisée

@@ -4,9 +4,10 @@
 ## Objectif du projet
 Ce projet vise à **analyser, structurer et restituer la performance ESG** d'un portefeuille d'entreprises à travers une approche **data-driven**, combinant:
 
-- Analyse exploratoire (EDA) en Python
-- Scoring ESG et segmentation non supervisée
-- Analyse de la **Double matérialité** (performance ESG vs risque financier)
+- Analyse exploratoire des données (EDA) en Python
+- Modélisation et scoring ESG avec **segmentation non supervisée** (K-Means)
+- Implémentation de modèles de **Machine Learning supervisés** (régression logistique, Random Forest) à des fins de classification et de scoring
+- Analyse de la **double matérialité** (performance ESG vs risque financier)
 - Restitution décisionnelle via **Power BI**
 
 L'objectif final est de fournir une **lecture stratégique claire**:
